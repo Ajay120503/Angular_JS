@@ -1,25 +1,4 @@
-# AngularJS — Basics to Advanced
-
-## Theory, coding examples, diagrams, projects, and advanced Python
-
-**Prepared:** 12 September 2026  
-**AngularJS examples:** 1.8.2  
-**Python examples:** Python 3.11+  
-**Audience:** Students, interview candidates, and developers maintaining AngularJS applications.
-
-> AngularJS means the JavaScript-based **1.x framework**, not modern Angular. Official AngularJS support ended in January 2022. These notes are suitable for coursework and understanding existing applications; assess a supported framework for new production work. [Official AngularJS introduction](https://docs.angularjs.org/guide/introduction)
->
-> Python is included as a **separate backend learning track**, as requested. AngularJS runs JavaScript in the browser. Python runs on the server in the integration project. They communicate through HTTP and JSON.
-
-**Validation note:** Python and JavaScript code blocks were syntax-checked. Project A controller behavior and Project B input validation were exercised. Full browser rendering, Mermaid rendering, and Flask HTTP integration were not executed in this environment; use the included run commands and verification cases locally.
-
-## How to study
-
-Read Chapters 1–12 for foundations, 13–24 for application internals and engineering, and build Project A in Chapter 25. Study advanced Python in Chapters 26–33, then build the integrated AngularJS–Flask–SQLite project in Chapter 34. Finish with troubleshooting, interview questions, and practice.
-
-**Code conventions:** Chapters 3, 25, and 34 contain complete applications. Other snippets are focused examples: add registrations to the existing `studyApp` module and place related markup within its AngularJS root. Do not combine alternative module definitions or every example in one file. Comments identify dependencies for contextual snippets.
-
-**Diagrams:** Mermaid diagrams render on GitHub and in Mermaid-enabled Markdown viewers. Other viewers show the diagram source. Explanations accompany each diagram.
+# AngularJS
 
 ## Contents
 
